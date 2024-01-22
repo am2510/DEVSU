@@ -4,3 +4,5 @@ después se creó el test case de agregar dos productos al carro. Solo se llegó
 
 Hay un video adjunto de la parte que se automatizo, ya que Tricentis Tosca no es un programa común.
 también está el archivo .tsu, con los módulos y los pasos del test case para agregar dos productos al carro.  
+
+Andrea Melissa Alejo Villamil
